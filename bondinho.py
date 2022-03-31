@@ -1,3 +1,4 @@
+# nome: Letícia Fonseca
 # nível júnior - 2017 - fase 1
 
 A = int(input()) # converter str (input padrão) em int
